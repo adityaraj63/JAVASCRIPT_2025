@@ -1,1 +1,1 @@
-# js-2025
+# JAVASCRIPT_2025
